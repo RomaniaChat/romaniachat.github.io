@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Pluginul RomaniaChat pentru WordPress va permite sa utilizati in pagina dvs de web wordpress, servicile pe care reteaua RomaniaChat.EU le ofera pentru webmasteri.
+
+Un WebChat pe baza qwebirc
+
+Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, modificand utilitatea sa pentru a fi mai usor de utilizat.
+
+Acesta include caracteristici cum ar fi Html5 Audio SHOUTcast RadioClick Player.
 
 You can use the [editor on GitHub](https://github.com/RomaniaChat/romaniachat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
