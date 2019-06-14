@@ -1,11 +1,15 @@
 ## Pluginul RomaniaChat pentru WordPress va permite sa utilizati in pagina dvs de web wordpress, servicile pe care reteaua [RomaniaChat.EU](https://romaniachat.eu/) le ofera pentru webmasteri.
 
-### Un WebChat pe baza [qwebirc](https://qwebirc.org/)
+**Un WebChat pe baza** [qwebirc](https://qwebirc.org/)
+
+```markdown
 
 Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, modificand utilitatea sa pentru a fi mai usor de utilizat.
 
 Acesta include caracteristici cum ar fi Html5 Audio SHOUTcast RadioClick Player.
 
+
+```
 
 ## Instalatie
 ```markdown
@@ -22,7 +26,7 @@ Configurati toate optiunile.
 
 
 ### Utilizare
-## Instructiuni de utilizare
+`Instructiuni de utilizare`
 
 ```markdown
 Introduceti in pagina unde dorti sa apara chat-ul urmatorul cod scurt:
@@ -35,15 +39,17 @@ Puteti specifica canalul pentru o anumita pagina in loc sa utilizati canalul imp
 
 ```
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://wp.romaniachat.tk/img/configurare.png)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://wp.romaniachat.tk/img/configurare.png)
 
 
 ### Support or Ajutor
+
 ```markdown
+
 Ai ceva de zis? Ai nevoie de ajutor? [Vezi forumul pentru suport.](https://wordpress.org/support/plugin/wp-romaniachat/)
+
+[RomaniaChat.Tk](https://www.romaniachat.tk/)  [WP-RomaniaChat](https://wp.romaniachat.tk/)
+
+[Plugin](https://github.com/RomaniaChat/wp-romaniachat)
+
 ```
