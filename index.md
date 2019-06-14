@@ -1,6 +1,6 @@
 ## Pluginul RomaniaChat pentru WordPress va permite sa utilizati in pagina dvs de web wordpress, servicile pe care reteaua [RomaniaChat.EU](https://romaniachat.eu/) le ofera pentru webmasteri.
 
-Un WebChat pe baza qwebirc
+# Un WebChat pe baza [qwebirc](https://qwebirc.org/)
 
 Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, modificand utilitatea sa pentru a fi mai usor de utilizat.
 
@@ -16,13 +16,11 @@ Activati plugin-ul in sectiunea Plugin-uri din panoul administrativ al Wordpress
 Configurati toate optiunile.
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 
 ### Utilizare
 ## Instructiuni de utilizare
 
+```markdown
 Introduceti in pagina unde dorti sa apara chat-ul urmatorul cod scurt:
 
 [romaniachat]
@@ -31,9 +29,8 @@ Puteti specifica canalul pentru o anumita pagina in loc sa utilizati canalul imp
 
 [romaniachat chan=#Romania]
 
+```
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -48,7 +45,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -56,6 +53,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RomaniaChat/romaniachat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Ajutor
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ai ceva de zis? Ai nevoie de ajutor? [Vezi forumul pentru suport.](https://wordpress.org/support/plugin/wp-romaniachat/)
