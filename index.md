@@ -1,4 +1,4 @@
-## Pluginul RomaniaChat pentru WordPress va permite sa utilizati in pagina dvs de web wordpress, servicile pe care reteaua RomaniaChat.EU le ofera pentru webmasteri.
+## Pluginul RomaniaChat pentru WordPress va permite sa utilizati in pagina dvs de web wordpress, servicile pe care reteaua [RomaniaChat.EU](https://romaniachat.eu/) le ofera pentru webmasteri.
 
 Un WebChat pe baza qwebirc
 
@@ -18,9 +18,19 @@ Configurati toate optiunile.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Utilizare
+## Instructiuni de utilizare
+
+Introduceti in pagina unde dorti sa apara chat-ul urmatorul cod scurt:
+
+[romaniachat]
+
+Puteti specifica canalul pentru o anumita pagina in loc sa utilizati canalul implicit configurat cu:
+
+[romaniachat chan=#Romania]
+
 
 ```markdown
 Syntax highlighted code block
