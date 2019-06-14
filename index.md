@@ -4,7 +4,8 @@
 
 ```markdown
 
-Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, modificand utilitatea sa pentru a fi mai usor de utilizat.
+Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, 
+modificand utilitatea sa pentru a fi mai usor de utilizat.
 
 Acesta include caracteristici cum ar fi Html5 Audio SHOUTcast RadioClick Player.
 
@@ -47,9 +48,8 @@ Puteti specifica canalul pentru o anumita pagina in loc sa utilizati canalul imp
 ### Support or Ajutor
 
 
-
 `Ai ceva de zis? Ai nevoie de ajutor?` [Vezi forumul pentru suport.](https://wordpress.org/support/plugin/wp-romaniachat/)
 
-[RomaniaChat.Tk](https://www.romaniachat.tk/)  [WP-RomaniaChat](https://wp.romaniachat.tk/)`
+[RomaniaChat.Tk](https://www.romaniachat.tk/)  [WP-RomaniaChat](https://wp.romaniachat.tk/)
 
-`[Plugin](https://github.com/RomaniaChat/wp-romaniachat)`
+[Plugin](https://github.com/RomaniaChat/wp-romaniachat)
