@@ -6,7 +6,15 @@ Webchat complet adaptabil la dimensiunea ecranului pe care este afisat, modifica
 
 Acesta include caracteristici cum ar fi Html5 Audio SHOUTcast RadioClick Player.
 
-You can use the [editor on GitHub](https://github.com/RomaniaChat/romaniachat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+## Instalatie
+
+Copiati directorul romaniachat in directorul wp-content/plugins al instalarii Wordpress.
+
+Activati plugin-ul in sectiunea Plugin-uri din panoul administrativ al Wordpress.
+
+Configurati toate optiunile.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
