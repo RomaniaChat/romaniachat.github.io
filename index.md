@@ -12,10 +12,12 @@ Acesta include caracteristici cum ar fi Html5 Audio SHOUTcast RadioClick Player.
 ```
 
 ## Instalatie
-```markdown
-RomaniaChat WordPress Plugin [Descarca](https://github.com/RomaniaChat/wp-romaniachat/archive/master.zip) github master
 
-RomaniaChat WordPress Plugin [Descarca](https://downloads.wordpress.org/plugin/wp-romaniachat.1.3.zip) wordpress wp
+`RomaniaChat WordPress Plugin [Descarca](https://github.com/RomaniaChat/wp-romaniachat/archive/master.zip) github master`
+
+`RomaniaChat WordPress Plugin [Descarca](https://downloads.wordpress.org/plugin/wp-romaniachat.1.3.zip) wordpress wp`
+
+```markdown
 
 Copiati directorul romaniachat in directorul wp-content/plugins al instalarii Wordpress.
 
@@ -44,12 +46,10 @@ Puteti specifica canalul pentru o anumita pagina in loc sa utilizati canalul imp
 
 ### Support or Ajutor
 
-```markdown
 
-Ai ceva de zis? Ai nevoie de ajutor? [Vezi forumul pentru suport.](https://wordpress.org/support/plugin/wp-romaniachat/)
 
-[RomaniaChat.Tk](https://www.romaniachat.tk/)  [WP-RomaniaChat](https://wp.romaniachat.tk/)
+`Ai ceva de zis? Ai nevoie de ajutor? [Vezi forumul pentru suport.](https://wordpress.org/support/plugin/wp-romaniachat/)`
 
-[Plugin](https://github.com/RomaniaChat/wp-romaniachat)
+`[RomaniaChat.Tk](https://www.romaniachat.tk/)  [WP-RomaniaChat](https://wp.romaniachat.tk/)`
 
-```
+`[Plugin](https://github.com/RomaniaChat/wp-romaniachat)`
